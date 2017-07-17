@@ -1,5 +1,7 @@
 # knox-steroids
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/knox-steroids.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/knox-steroids.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/knox-steroids/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/knox-steroids)
 [![Dependency status](http://img.shields.io/david/Kikobeats/knox-steroids.svg?style=flat-square)](https://david-dm.org/Kikobeats/knox-steroids)
